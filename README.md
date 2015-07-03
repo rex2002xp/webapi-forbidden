@@ -1,5 +1,5 @@
 # webapi-forbidden
-#### Blog: http://www.victorcornejo.com
+#### Blog: http://www.victorcornejo.com/2015/07/03/webapi-net-implementando-forbidden/
 
 Dia con dia las aplicaciones que consumen servicios de tipo WebApi crecen, y como desarrolladores estamos llamados a profundizar en el conocimiento del protocolo HTTP. Revisemos algunos conceptos muy utilices para el manejo del código 403 Forbidden.
 
